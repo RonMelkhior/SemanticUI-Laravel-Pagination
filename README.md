@@ -2,6 +2,10 @@
 
 Small snippets for the pagination templates to work with Semantic-UI's syntax.
 
+## Demo
+
+A demo (showcasing both full pagination & simple) can be viewed [here](https://pagination.melkhior.me).
+
 ## Usage
 
 First of all, this only supports Laravel 5.3+ (older versions don't let you export the pagination templates).
